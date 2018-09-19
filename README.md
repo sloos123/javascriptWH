@@ -1,16 +1,16 @@
 # javascriptWH
 
-<h1>primitive Datentypen</h1>
+### primitive Datentypen
 
-<h1>Variablen</h1>
+### Variablen
 
-<h1>Operatoren</h1>
+### Operatoren
 
-<h1>Ausgabe auf Bildschirm</h1>
+### Ausgabe auf Bildschirm
 
-<h1>Verzweigungen</h1>
+### Verzweigungen
 
-<h1>Schleifen</h1>
+### Schleifen
 
 # commentar
 
