@@ -157,10 +157,9 @@ How to publish your .md?
 1) git clone https://github.com/sloos123/javascriptWH.git
 2) cd /Users/Sarah/Documents/Repos/javascriptWH
 3) git add README.md
-4) git staus
-5) git commit -m "initial commit"
-6) git status
-7) git push
+4) git commit -m "initial commit"
+5) git status
+6) git push
 ```
 
 ```
