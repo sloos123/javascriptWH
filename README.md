@@ -6,19 +6,14 @@
 
 + Boolean:
     - The boolean data type can only have two values: __true__ or __false__
-___
 + Number:
-    - The numeric data type handles numers like __0.75__ for exaple
-___    
+    - The numeric data type handles numers like __0.75__ for exaple  
 + String:
-    - The string data type consists of letters and other charakters like __Hi, Sarah!__ for example.
-___    
+    - The string data type consists of letters and other charakters like __Hi, Sarah!__ for example.    
 + Null:
     - Null has one value: null. It is explicitly nothing.
-___
 + Undefined:
-    - A variable that has no value is undefined.
-___    
+    - A variable that has no value is undefined.   
 + Symbol:
     - Symbols are new in ES6. A Symbol is an immutable primitive value that is unique. 
 ___
@@ -38,6 +33,7 @@ var quantity;
 ``` js
 quantity = 3;
 ```
+___
 ### Operators
 
 + Operators allow programmers to create a single value from one or more values.
@@ -86,7 +82,7 @@ Example:
 ``` js
 var firstName = 'Sarah ';
 var lastName = 'Loos ';
-var fulName = firstName + lastName;
+var fullName = firstName + lastName;
 ```
 ##### Comparison Operators
 -> Can return single values of true or false.
@@ -113,9 +109,9 @@ Example:
 |  Type  | Description |
 | ------ | ----------- |
 |    &&   | logical and |
-|   '||'  | logical or|
 |   !   | logical not |
 
+___
 ### Outputs
 JavaScript can "display" data in different ways:
 
@@ -162,7 +158,7 @@ Example:
 console.log(2 + 8);
 </script>
 ```
-
+___
 ### Conditional Statements
 
 |  Type  | Description |
@@ -179,7 +175,7 @@ greeting = "Good day";
 }
 ```
 
-
+___
 ### Loops
 
 |  Type  | Description |
@@ -193,7 +189,7 @@ Example:
 for (var i = 0; i < 10; i++) {document.write(i);
 }
 ```
-
+___
 ## Commentar
 ```
 How to publish your .md?
